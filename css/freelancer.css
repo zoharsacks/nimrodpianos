@@ -42,7 +42,7 @@ hr.star-primary {
 
 hr.star-light:after,
 hr.star-primary:after {
-    content: "\f005";
+    content: "\f001";
     display: inline-block;
     position: relative;
     top: -.8em;
@@ -76,7 +76,7 @@ hr.star-primary:after {
 header {
     text-align: center;
     color: #fff;
-    background: #18bc9c;
+    background: #A17F28;
 }
 
 header .container {
@@ -104,7 +104,7 @@ header .intro-text .skills {
 
 @media(min-width:768px) {
     header .container {
-        padding: 200px 0 100px;
+        padding: 150px 0 100px;
     }
 
     header .intro-text .name {
