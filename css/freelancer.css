@@ -172,11 +172,6 @@ section h2 {
     font-size: 3em;
 }
 
-section.success {
-    color: #fff;
-    background: #A17F28;
-}
-
 @media(max-width:767px) {
     section {
         padding: 75px 0;
@@ -185,6 +180,11 @@ section.success {
     section.first {
         padding-top: 75px;
     }
+}
+
+#portfolio {
+    color: #fff;
+    background: #A17F28;
 }
 
 #portfolio .portfolio-item {
